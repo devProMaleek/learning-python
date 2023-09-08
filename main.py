@@ -5,7 +5,6 @@ height = input("Enter your height in m: ")
 weight = input("Enter your weight in kg: ")
 # 🚨 Don't change the code above 👆
 
-
 def user_bmi(bmi):
   underweight = range(0, 20)
   normal = range(19, 26)
