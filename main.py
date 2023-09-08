@@ -1,6 +1,7 @@
 #Data Types
 # 🚨 Don't change the code below 👇
 print("Welcome to Body Mass Index (BMI) Calculator")
+print("Know if you are Overweight, Normal or Underweight")
 height = input("Enter your height in m: ")
 weight = input("Enter your weight in kg: ")
 # 🚨 Don't change the code above 👆
