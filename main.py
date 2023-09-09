@@ -28,4 +28,12 @@ integer_bmi = int(bmi)
 print("Your BMI is ",integer_bmi)
 user_bmi(integer_bmi)
 
+
+# F-String
+# Manipulating different data types together
+score = 0
+height = 1.8
+isWinning = True
+
+print(f"Your score is {score}, your height is {height}, you are winning is {isWinning}")
  
